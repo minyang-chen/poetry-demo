@@ -1,0 +1,8 @@
+pyspark>=3.0.1
+findspark
+pytest
+pytest-cov
+pytest-spark
+pytest-xdist
+chispa
+flake8
