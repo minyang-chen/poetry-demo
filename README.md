@@ -14,5 +14,5 @@ poetry run pytest
 **Build**
 
 ```
-pysparkdemopysparkdemo
+poetry build
 ```
