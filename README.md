@@ -1,7 +1,6 @@
-# poetry-demo
+# pysparkpoetry-demo
 
-poetry-demo
-
+usage of poetry in pyspark project
 
 
 **Run test**
